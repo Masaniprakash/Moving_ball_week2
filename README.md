@@ -5,4 +5,4 @@
 ## Step to Run the Project
 ### step 1: Refresh the page to run the project.
 ## Future Update
-### In future move the ball in the different directio
+### In future move the ball in the different direction
