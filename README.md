@@ -7,5 +7,5 @@
 ## Future Update
 ### In future move the ball in the different direction
 
-## Link to view the output 
-https://masaniprakash.github.io/Moving_ball_week2/
+## CLick the link to view the output 
+### https://masaniprakash.github.io/Moving_ball_week2/
